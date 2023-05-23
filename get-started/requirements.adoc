@@ -169,13 +169,13 @@ NOTE: Astra Control Center를 이중 스택 Kubernetes 클러스터에 구축할
 | 소비자 평가 기준 | Astra Control Center 작업자 노드 | 9090 | HTTPS | 메트릭 데이터 통신 - 각 관리 클러스터가 Astra Control Center를 호스팅하는 클러스터의 이 포트에 액세스할 수 있는지 확인합니다 (양방향 통신 필요) 
 
 
-| Astra 제어 센터 | Hosted Cloud Insights 서비스 (https://www.netapp.com/cloud-services/cloud-insights/)[] | 443 | HTTPS | Cloud Insights 통신 
+| Astra 제어 센터 | Hosted Cloud Insights 서비스  | 443 | HTTPS | Cloud Insights 통신 
 
 
 | Astra 제어 센터 | Amazon S3 스토리지 버킷 공급자 | 443 | HTTPS | Amazon S3 스토리지 통신 
 
 
-| Astra 제어 센터 | NetApp AutoSupport를 참조하십시오 (https://support.netapp.com)[] | 443 | HTTPS | NetApp AutoSupport 커뮤니케이션 
+| Astra 제어 센터 | NetApp AutoSupport를 참조하십시오  | 443 | HTTPS | NetApp AutoSupport 커뮤니케이션 
 |===
 
 
